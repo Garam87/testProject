@@ -12,5 +12,6 @@ public class HelloWorld {
 		System.out.println("메롱 메롱 메롱 메롱 메롱");
 		System.out.println("1 + 2");
 		System.out.println("14 * 19 = " + 266);
+		System.out.println("크하하하하핳하하핳하하핳하핳하하하핳하핳하");
 	}
 }
